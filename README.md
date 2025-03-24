@@ -8,7 +8,7 @@ Welcome to my GitHub!
 
 ## 🌟 About Me  
 
-🔹 **6+ years of experience** in leading teams & handling data.  
+🔹 **7+ years of experience** in leading teams & handling data.  
 🔹 Passionate about **data cleaning, visualization & storytelling**.  
 🔹 A **lifelong learner**, always upskilling in SQL, Python & Power BI.  
 
@@ -25,7 +25,7 @@ Welcome to my GitHub!
 
 ## 🔗 Connect With Me  
 
-📧 Email: nikhilroy744@gmail.com
+📧 Email: nikhilroy744@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-roy/  
 🌎 Portfolio: https://www.datascienceportfol.io/nikhilroy744 
 
