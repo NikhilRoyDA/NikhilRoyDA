@@ -9,13 +9,14 @@ Explore curated data analysis projects demonstrating my skills in extracting ins
 🔹 **Advanced Excel 📊**  
 🔹 **Power BI 📈**  
 🔹 **Python 🐍**  
+🔹 **Tableau** 
 🔹 **Data Visualization & Storytelling**  
 
 ## Contact:  
 📧 Reach out to me via email at [nikhilroy744@gmail.com) ✉️  
 
 ## Connect:  
-🔗 **LinkedIn:** (https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nikhil-kumar-roy/)
+🔗 **LinkedIn:** (https://www.linkedin.com/in/nikhil-kumar-roy/)
 🌐 **Portfolio:** (https://www.datascienceportfol.io/nikhilroy744)  
 
 ---
