@@ -9,7 +9,7 @@ Explore curated data analysis projects demonstrating my skills in extracting ins
 🔹 **Advanced Excel 📊**  
 🔹 **Power BI 📈**  
 🔹 **Python 🐍**  
-🔹 **Tableau**
+🔹 **Tableau** 
 🔹 **Data Visualization & Storytelling**  
 
 ## Contact:  
