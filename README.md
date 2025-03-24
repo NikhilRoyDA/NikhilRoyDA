@@ -1,23 +1,35 @@
-# Hi 👋, I am NIKHIL ROY  
+# Hi there! 👋 I'm Nikhil Roy 
 
-### 💡 A passionate Data Analyst.  
+### 🚀 Data Analyst | Problem Solver | Storyteller  
 
-Explore curated data analysis projects demonstrating my skills in extracting insights and making data-driven decisions.  
+Welcome to my GitHub!
 
-## Skills:  
-🔹 **SQL**  
-🔹 **Advanced Excel 📊**  
-🔹 **Power BI 📈**  
-🔹 **Python 🐍**  
-🔹 **Tableau** 
-🔹 **Data Visualization & Storytelling**  
+---
 
-## Contact:  
-📧 Reach out to me via email at [nikhilroy744@gmail.com) ✉️  
+## 🌟 About Me  
 
-## Connect:  
-🔗 **LinkedIn:** https://www.linkedin.com/in/nikhil-kumar-roy/
+🔹 **6+ years of experience** in leading teams & handling data.  
+🔹 Passionate about **data cleaning, visualization & storytelling**.  
+🔹 A **lifelong learner**, always upskilling in SQL, Python & Power BI.  
 
-🌐 **Portfolio:** https://www.datascienceportfol.io/nikhilroy744
+---
+
+## 🛠️ Skills & Tools  
+
+💡 **Data Analysis** – SQL | Python 🐍 | Pandas | NumPy  
+📊 **Data Visualization** – Power BI 📈 |Tableau | Matplotlib | Seaborn  
+📝 **Data Cleaning** – Pandas | Excel |   
+📌 **Other Tools** – Advanced Excel 📑 | Google Sheets  
+
+---
+
+## 🔗 Connect With Me  
+
+📧 Email: nikhilroy744@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-roy/  
+🌎 Portfolio: https://www.datascienceportfol.io/nikhilroy744 
+
+
+Thanks for stopping by! Let's connect & collaborate. 🤝   
 
 ---
