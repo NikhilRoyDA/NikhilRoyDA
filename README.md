@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I am [NIKHIL ROY]  
 
-<!--
-**NikhilRoyDA/NikhilRoyDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 A passionate Data Analyst.  
 
-Here are some ideas to get you started:
+Explore curated data analysis projects demonstrating my skills in extracting insights and making data-driven decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:  
+🔹 **SQL**  
+🔹 **Advanced Excel 📊**  
+🔹 **Power BI 📈**  
+🔹 **Python 🐍**  
+🔹 **Data Visualization & Storytelling**  
+
+## Contact:  
+📧 Reach out to me via email at [nikhilroy744@gmail.com) ✉️  
+
+## Connect:  
+🔗 **LinkedIn:** [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nikhil-kumar-roy/))  
+🌐 **Portfolio:** (https://www.datascienceportfol.io/nikhilroy744)  
+
+---
