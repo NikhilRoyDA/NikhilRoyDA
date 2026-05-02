@@ -8,7 +8,7 @@ Welcome to my GitHub!
 
 ## 🌟 About Me  
 
-🔹 **7+ years of experience** in leading teams & handling data.  
+🔹 **8+ years of experience** in leading teams & handling data.  
 🔹 Passionate about **data cleaning, visualization & storytelling**.  
 🔹 A **lifelong learner**, always upskilling in SQL, Python & Power BI.  
 
